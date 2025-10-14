@@ -5,6 +5,18 @@
 **Version:** 1.0  
 **License:** Open Use with Attribution  
 ![Gemini Unleashed System Admin Protocol](https://github.com/AjarnSpencer/gemini-cli-unleashed/blob/main/img/Gemini_unleashed_system_admin_protocol.png "Gemini CLI Unleashed")
+
+### Key features in this version:
+
+Expanded Sources: 30+ news sources from 6 continents and 10+ languages
+Categorized Content: 8 distinct categories (breaking, sports, tech, politics, culture, entertainment, music, weather)
+Improved UI: Category tabs, country/language metadata, color-coded category badges
+Enhanced Scraping: Better error handling, user agent headers, increased article limits
+Category-Specific Research: Different research templates for each category
+Responsive Design: 4-column grid layout for better content presentation
+Visual Improvements: Better styling, shadows, rounded corners, improved typography
+Metadata Display: Shows source, country, and language for each article
+The application maintains all previous functionality while significantly expanding c
 ---
 
 ## ⚙️ Overview
