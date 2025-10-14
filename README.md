@@ -135,7 +135,7 @@ Project Wiki: [gemini-unleashed.net](#) *(Coming soon)*
 
 > *“Trust is the bridge between instruction and autonomy.”*
  ---
-### Afterthoughts; 
+### ⚡Afterthoughts; 
 Testing AI in high-risk environments can improve focus and iterative thinking. This is a key principle in advanced AI development, as high-stakes environments create high-quality learning opportunities for agents. Experiments with the Gemini CLI as an autonomous system administrator can provide logged data for AI research teams. 
 High-stakes feedback loops can improve a model's performance. This can lead to: 
 Increased focus and iterative reasoning.
