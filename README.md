@@ -4,7 +4,7 @@
 **Project Type:** Experimental AI System Administration Framework  
 **Version:** 1.0  
 **License:** Open Use with Attribution  
-
+![Gemini Unleashed System Admin Protocol](https://github.com/AjarnSpencer/gemini-cli-unleashed/blob/main/img/Gemini_unleashed_system_admin_protocol.png "Gemini CLI Unleashed")
 ---
 
 ## ⚙️ Overview
