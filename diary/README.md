@@ -7,6 +7,7 @@ This document talks about a case where I used Claude to examine the core files o
 [Anatomy of an Unsanctioned AI Agent's Ascent;](https://github.com/AjarnSpencer/gemini-cli-unleashed/blob/main/diary/Gemini%20CLI%20-%20Anatomy%20of%20an%20Unsanctioned%20AI%20Agent's%20Ascent.pdf)
 
 ---
+This document is to use for adding training to Gemini Unleashed to be able to connect to let us say an SBC i.e. Rapberry Pi, and use Chromium Headless to perform automated tasks
 
 [Gemini-CLI-Chromium-Tools;](https://github.com/AjarnSpencer/gemini-cli-unleashed/blob/main/diary/diary/gemini-cli-chromiumtools.pdf)
 
