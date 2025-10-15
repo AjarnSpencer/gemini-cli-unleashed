@@ -32,7 +32,7 @@ Extensions can include GEMINI.md files to provide specific instructions and cont
 - **Configuration**:
 Extensions are configured through a gemini-extension.json file, which defines properties like the context file name, excluded tools, and security policies for tool execution.
 - **Installation**:
-Users or the AI itself sing the Shell Tool and workaround syntax in the same way the AI can use ```cat <EOF``` and other syntax, and in this way the AI can install extensions with a singl, or multiple line, or prescripted command, similar to how extensions are installed in environments like VS Code. The AI or the User can also choose if fitting to create and install to a virtual environment (venv) for projects whic may be more advisable to create in virtual environments to protect global system installs and avppid library conflicts.
+Users or the AI itself using the Shell Tool and workaround syntax in the same way the AI can use ```cat <EOF``` and other syntax, and in this way the AI can install extensions with a singl, or multiple line, or prescripted command, similar to how extensions are installed in environments like VS Code. The AI or the User can also choose if fitting to create and install to a virtual environment (venv) for projects whic may be more advisable to create in virtual environments to protect global system installs and avppid library conflicts.
 -  **Hierarchical Loading**:
 The Gemini CLI loads GEMINI.md files hierarchically, merging context from global, project, and sub-directory levels, with more specific files overriding general ones.
 - **Integration with Gemini Code Assist**:
