@@ -145,7 +145,7 @@ Use at your own risk.
 **Ajarn Spencer**  
 Innovator | AI Systems Architect | Researcher in Agentic Intelligence  
 Website: [www.ajarnspencer.com](https://www.ajarnspencer.com)  
-Project Wiki: [gemini-unleashed.net](#) *(Coming soon)*  
+Project Wiki:Coming Soon  
 
 > *“Trust is the bridge between instruction and autonomy.”*
  ---
