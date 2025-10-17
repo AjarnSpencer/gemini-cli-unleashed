@@ -1,1 +1,27 @@
+```
+input_description = "The path to the file to check for formatting."
+output_description = "A review of the file, explaining any formatting issues found."
 
+[tool_code]
+# The `tool_code` defines the actions for the AI to take.
+# It can use placeholders like `${read_file:file}`.
+content = """
+# Task: Review the file '${input:file}' for formatting issues.
+
+# Instructions:
+# 1. Read the content of the file from the provided path.
+# 2. Analyze the code against the best practices outlined in the project's `GEMINI.md`.
+# 3. Identify and explain any deviations from the specified style or formatting.
+# 4. Provide specific examples of problematic code and how to fix it.
+# 5. The output should be a clear, markdown-formatted report of the findings.
+
+# Example:
+# - A function that is not documented.
+# - Line lengths that exceed the maximum defined in `.gemini/settings.json`.
+# - Inconsistent use of single versus double quotes for strings.
+
+# Use a tool to read the specified file.
+# The AI will automatically interpret this and perform the action.
+${read_file:file}
+"""
+```
