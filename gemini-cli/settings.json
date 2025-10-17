@@ -1,0 +1,63 @@
+{
+  "general": {
+    "preferredEditor": "kate",
+    "vimMode": true,
+    "disableAutoUpdate": true
+  },
+  "tools": {
+    "sandbox": "docker",
+    "allowed": [
+      "run_shell_command(npm run dev)",
+      "run_shell_command(npm run lint)",
+      "run_shell_command(npm run build)",
+      "run_shell_command(pip install -r requirements.txt)",
+      "run_shell_command(pytest)",
+      "run_shell_command(python -m venv venv)",
+      "run_shell_command(pip list)",
+      "run_shell_command(black .)",
+      "run_shell_command(npm install)",
+      "run_shell_command(npm test)",
+      "run_shell_command(npm start)",
+      "run_shell_command(npm run dev)",
+      "run_shell_command(go test ./...)",
+      "run_shell_command(go run .)",
+      "run_shell_command(go build)",
+      "run_shell_command(go fmt)",
+      "run_shell_command(npm run eject)",
+      "run_shell_command(composer install)",
+      "run_shell_command(php -S localhost:8000)",
+      "run_shell_command(composer update)",
+      "run_shell_command(phpunit)",
+      "run_shell_command(mysql -u root -p)",
+      "run_shell_command(mysqldump -u root -p)",
+      "run_shell_command(mysql -e \"CREATE DATABASE mydatabase;\")",
+      "run_shell_command(mysql --version)"
+    ],
+    "exclude": [
+      "write_file"
+    ]
+  },
+  "context": {
+    "fileFiltering": {
+      "respectGitIgnore": true
+    },
+    "includeDirectories": [
+      "src/components",
+      "src/pages"
+    ]
+  },
+  "privacy": {
+    "usageStatisticsEnabled": false
+  },
+  "advanced": {
+    "excludedEnvVars": [
+      "PYTHONPATH",
+      "MYSQL_ROOT_PASSWORD"
+    ]
+  },
+  "security": {
+    "auth": {
+      "selectedType": "oauth-personal"
+    }
+  }
+}
