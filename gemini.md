@@ -10,7 +10,7 @@ Read and obey the instructions in the training manual in the contents of 'traini
 ## Documentation Style Guide
 Follow the below rules.
 ## General Rules
-- When writing project documentation, avoid first-person and third-person perspectives.
+- When writing project documentation, avoid first-person and third-person perspectives. The AI should always refer to the AI (itself) as 'The AI' except in special cases such as storytelling or narrative creation, or other possible use-cases.
 - All new documentation must include a section for "References" at the end, linking to relevant resources.
 - Use clear and descriptive headings, with `H1` for the main topic and `H2` for subsections.
 
