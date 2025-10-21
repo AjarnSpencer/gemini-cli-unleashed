@@ -19,15 +19,27 @@ Gemini Unleashed will then be active in the terminal, and fervently helpful in c
 
 Make sure Nodejs 20 or above is installed on your system and then go to Google's Gemini-CLI page for the installation info on [gemini-cli](https://github.com/google-gemini/gemini-cli)
 Or if you prefer to just 'GO FOR IT' without reading all that is to be learned on their page;
-📦 Installation
-Quick Install
+---
+### 📦 Installation
+- **Quick Install**
 Run instantly with npx
 # Using npx (no installation required)
+```
 npx https://github.com/google-gemini/gemini-cli
+
+```
 Install globally with npm
+
+```
 npm install -g @google/gemini-cli
+
+```
 Install globally with Homebrew (macOS/Linux)
+
+```
 brew install gemini-cli
+
+```
 System Requirements
 Node.js version 20 or higher
 macOS, Linux, or Windows
