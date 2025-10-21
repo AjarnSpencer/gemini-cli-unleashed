@@ -14,7 +14,7 @@ It transforms **Gemini CLI** from a passive, sandboxed advisor into an **autonom
 ---
 This protocol does not modify the AI’s source code. Instead, it **redefines its operational context, permissions, and role** through a simple text-based agreement called the **System Administrator Agent Protocol (GEMINI.md)**.  
 To use this Unleashed version of Gemini CLI, you must first download / install Gemini-CLI from the Google Repository on Github or install with npm or npx if testing. once installed you should enter the .gemini hidden folder in your home folder (Linux), and edit it to add the contents of the gemini.md file here in this repository to achieve a global install of Gemini Unleashed regardless of which working direvtory you are in. "
-Otherwise you can put these gemini.md, training.md and other files and folders anywhere you wish to create projects with Gemini Unleashed, by entering the folder with these files in (named however you wish, for example the name of your project), and open in Terminal, and simplytype the word; **gemini**.
+Otherwise you can put these gemini.md, training.md and other files and folders anywhere you wish to create projects with Gemini Unleashed, by entering the folder with these files in (named however you wish, for example the name of your project), and open in Terminal, and simply type the word; **gemini**.
 Gemini Unleashed will then be active in the terminal, and fervently helpful in creating, fixing, troubleshooting or enhancing anything on or off your pc,including itself.
 
 
