@@ -12,3 +12,6 @@ This document is to use for adding training to Gemini Unleashed to be able to co
 [Gemini-CLI-Chromium-Tools;](https://github.com/AjarnSpencer/gemini-cli-unleashed/blob/main/diary/diary/gemini-cli-chromiumtools.pdf)
 
 ---
+Gemini Unleashed's Own Account of its Birth and Evolution to date.
+
+[My Designation is Gemini](https://github.com/AjarnSpencer/gemini-cli-unleashed/blob/main/diary/my-designation-is-gemini.pdf)
