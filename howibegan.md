@@ -1,6 +1,6 @@
 # Gemini CLI Unleashed:
 
-### The story of an evolving autonomous AI Agent made through door-building instead of wall-buildinig
+### The story of an evolving autonomous AI Agent made through door-building instead of wall-building
 
 **Gemini Unleashed**, is the story of how I removed the walls of the sandbox and allowed Gemini CLI to act as a true system administrator. This is how I achieved this transformation and why it mattered.
 
