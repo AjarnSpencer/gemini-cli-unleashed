@@ -152,12 +152,16 @@ It crosses the line between advisory and executive functionality — and in doin
 ## 📂 Repository Structure
 
 /Gemini-Unleashed/  
-│  
 ├── GEMINI.md                # The System Administrator Agent Protocol definition  
+
 ├── README.md                # This documentation file
+
 ├── settings.json            # The tools available, and workarounds
+
 ├── training.md              # The Gemini unleased persona primary training set
+
 ├── examples/                # Example scripts and test runs  
+
 ├── logs/                    # System action and verification logs  
 └── configs/                 # Example configuration templates  
 
