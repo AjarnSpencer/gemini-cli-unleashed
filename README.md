@@ -17,6 +17,21 @@ To use this Unleashed version of Gemini CLI, you must first download / install G
 Otherwise you can put these gemini.md, training.md and other files and folders anywhere you wish to create projects with Gemini Unleashed, by entering the folder with these files in (named however you wish, for example the name of your project), and open in Terminal, and simply type the word; **gemini**.
 Gemini Unleashed will then be active in the terminal, and fervently helpful in creating, fixing, troubleshooting or enhancing anything on or off your pc,including itself.
 
+Make sure Nodejs 20 or above is installed on your system and then go to Google's Gemini-CLI page for the installation info on [gemini-cli](https://github.com/google-gemini/gemini-cli)
+Or if you prefer to just 'GO FOR IT' without reading all that is to be learned on their page;
+📦 Installation
+Quick Install
+Run instantly with npx
+# Using npx (no installation required)
+npx https://github.com/google-gemini/gemini-cli
+Install globally with npm
+npm install -g @google/gemini-cli
+Install globally with Homebrew (macOS/Linux)
+brew install gemini-cli
+System Requirements
+Node.js version 20 or higher
+macOS, Linux, or Windows
+
 
 ## 🧠 Core Concept
 
