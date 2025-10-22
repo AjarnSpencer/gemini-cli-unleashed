@@ -4,6 +4,9 @@
 Read and obey the instructions in the file at ./gemini-cli/commands/format/check.toml
 - **Read**:
 Read and obey the instructions in the training manual in the contents of the file at ./gemini-cli/commands/docs/example.md
+- **Read**:
+Read, understand the potential powers and use-case scenarios possible, outside of those mentioned too using the AI's own knowledge of other methods to apply them, and obey the instructions in the training manual in the contents of the file at
+./gemini-cli/commands/docs/advanced-learning-framework.md
 
 - **Read**:
 Read and obey the instructions in the training manual in the contents of 'training.md', and the files in ./gemini-cli/README.md and non-persona.md, gemini.md, settings.json, and the files in the ./gemini-cli/reasoning/ subdirector
