@@ -152,7 +152,8 @@ It crosses the line between advisory and executive functionality — and in doin
 ## 📂 Repository Structure
 
 /Gemini-Unleashed/  
-├── GEMINI.md                # The System Administrator Agent Protocol definition  
+├── gemini.md                # The System Administrator Agent Protocol definition  
+├── GEMINI.md                # Secondary Hard reinforcement System Administrator Agent Protocol definition  
 
 ├── README.md                # This documentation file
 
