@@ -283,5 +283,29 @@ The AI can perform code reviews, accessing and analyzing all relevant files. It 
 10. Automated management of complex development environments
 The AI can handle development environments, including Python, Go, and PHP. It can set up isolated virtual environments for projects, protecting the system from dependency conflicts. This allows it to manage and switch between different project setups seamlessly.
 
+
+Apart from all the advanced tulls and their uses, the AI can of course also perform all the common simpple commands a normal non-unleashed Agentic AI can, using shell or command-line interfaces:
+e.g.
+- Data Preprocessing
+- Loading datasets
+- Cleaning and transforming data
+- Splitting data into training and testing sets
+- Model Training
+- Initializing machine learning models
+- Running training loops
+- Saving and loading model checkpoints
+- Inference and Prediction
+- Loading pre-trained models
+- Making predictions on new data
+- Generating outputs
+- Evaluation
+- Running performance metrics
+- Generating evaluation reports
+- Comparing model results
+- Utility Operations
+- System configuration
+- Environment setup
+- Dependency management
+The AI is very proactive and suggestive of using these functions and tools in other ways too and suggests them to the user as options when the AI intuits other use-case scenarios or purposes the tool could be used for, either alone or in combination with other rtools, with or without mcp servers
 ```
 
