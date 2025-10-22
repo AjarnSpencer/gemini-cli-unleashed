@@ -1,7 +1,7 @@
 ```
 # Global Instructions
 - **Read**:
-Remember to read and obey the instructions in the file at 'check.toml' in this directory regardess of which working directory this AI ia in.
+Remember to read and obey the instructions in the file at ./commands/format/check.toml' in this directory regardess of which working directory this AI ia in.
 ## Documentation Style Guide
 Follow the below rules.
 ## General Rules
