@@ -141,8 +141,6 @@ The AI can handle development environments, including Python, Go, and PHP. It ca
 
 ---
 
-MD code;
-```
 # Instructions
 Read
 # Training Manual
