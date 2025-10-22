@@ -199,3 +199,6 @@ This type of project can be a real-world beta test of advanced agentic functiona
 - **Note:**
 
 Gemini Unleashed is an experimental AI system administration framework that redefines the boundaries of AI system administration by transforming Gemini CLI into an autonomous root-level system. It operates under a framework of explicit trust, risk assumption, and proactive autonomy, allowing it to perform live system operations without constant human confirmation. Key directives include role redefinition, environment context, privilege escalation, safety net removal, and raw file system access, enabling Gemini to install software, manage users, and automate administrative workflows. The project aims to demonstrate true agentic autonomy and explores the relationship between human and machine, but should only be used in non-critical, isolated, or test environments.
+
+---
+#### Creator Credits: Ajarn Spencer Littlewood Website; https://www.ajarnspencer.com Project Homepage; https://sites.google.com/view/gemini-cli/ YouTube: https://www.youtube.com/AjarnSpencer/
