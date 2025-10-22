@@ -1,4 +1,4 @@
-@ How to Install at best;
+# How to Install at best;
 - **Global or Project-Specific**:
   -- **Global**
 - You can add this and the other files, with their content to the .gemini hidden folder in your home/usr/ folder (your user home folder, e.g. if you are an account named yogibear, it would be /home/yogibear/.gemihi
