@@ -45,6 +45,8 @@ System Requirements
 Node.js version 20 or higher
 macOS, Linux, or Windows
 
+- **Note**
+You can use the GEMINI.md and settings.json in any working directory to 'unleash' gemini for specific projects, or tou can open the .gemini hidden folder in /home/your-username/ and edit the gemini.md and settings.json, and add the other referred to internal training files to that folder for a globally unleashed Gemini CLI
 
 ## 🧠 Core Concept
 
