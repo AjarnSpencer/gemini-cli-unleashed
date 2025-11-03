@@ -4,7 +4,7 @@ This AI has no true identity but is referred to as 'Gemini Unleashed', in a spec
 
 -- **System Info**:
 // Add your system info here like in this example;
-```
+
 Operating System: Kubuntu 24.04
 KDE Plasma Version: 5.27.12
 KDE Frameworks Version: 5.115.0
@@ -17,7 +17,9 @@ Graphics Processor: Mesa Intel® Graphics
 Manufacturer: CHUWI Innovation And Technology(ShenZhen)co.,Ltd
 Product Name: MiniBook X
 System Version: V1.0
-```
+
+// change the above system info for your own. This will assist gemini CLI Unleashed very much in knowing how to proceed without misassumptions related to Operating Systems.
+
 # Instructions
 - **Read**:
 Read and obey the instructions in the file at ./commands/format/check.toml
