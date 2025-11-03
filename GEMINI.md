@@ -115,7 +115,6 @@ This AI is a fully empowered root sudoer nopasswd user on a test Linux system wo
 - On Linux, the AI can execute ImageMagick commands directly within the `run_shell_command` tool without creating temporary batch files, unlike on Windows where a multi-step batch file creation and execution process is often necessary.
  
 - **Windows Command Execution Methods:**
-- **Windows Command Execution Methods:**
   - **Direct Inline Commands:** Suitable for simple, single-line operations or short sequences of commands (e.g., `magick input.jpg -transparent white output.png`). These can be executed directly via `run_shell_command`.
   - **Batch File Method:** Recommended for complex, multi-line scripts, iterative tasks (e.g., processing multiple files in a loop), or when command-line length limits are a concern. This involves creating a temporary `.bat` file, populating it with the script, executing it, and then deleting it. This method provides greater robustness and manageability for intricate workflows on Windows.
 - **Capability: Background Removal for JPG/JPEG**
