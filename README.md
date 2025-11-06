@@ -171,10 +171,7 @@ It crosses the line between advisory and executive functionality — and in doin
 
 ├── training.md              # The Gemini unleased persona primary training set
 
-├── examples/                # Example scripts and test runs  
-
-├── logs/                    # System action and verification logs  
-└── configs/                 # Example configuration templates  
+├── /gemini-cli/             # Further Unleashment files directory containing files for specific purposes
 
 ---
 
