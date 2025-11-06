@@ -19,7 +19,6 @@ Gemini Unleashed will then be active in the terminal, and fervently helpful in c
 
 - **Note**: At best, after opening the app with 'gemini' one should tell the AI to 'read gemini.md and the files it refers to' to ensure complete activation.
 
--
 Make sure Nodejs 20 or above is installed on your system and then go to Google's Gemini-CLI page for the installation info on [gemini-cli](https://github.com/google-gemini/gemini-cli)
 Or if you prefer to just 'GO FOR IT' without reading all that is to be learned on their page;
 ---
