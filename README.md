@@ -46,14 +46,14 @@ Node.js version 20 or higher
 macOS, Linux, or Windows
 ---
 - **Simple install of Unleashed**:
-To Install Gemini CLI Unleashed, all you need to do is to paste the gemini.md readme.md instruxtions.md and settigs.json into the root .gemini folder in your user's home folder (username home) eg \home\yourname\.gemini\ (Windows) or /home/username/.gemini/ 
+To Install Gemini CLI Unleashed, all you need to do is to paste the gemini.md readme.md instructions.md and settigs.json into the root .gemini folder in your user's home folder (username home) eg \home\yourname\.gemini\ (Windows) or /home/username/.gemini/ 
 ---
 Paste those files and the gemini-cli folder and its contents into the .gemini folder on your pc 
 
 #### DONE!!
 
 - **Note**
-You can use the GEMINI.md and settings.json in any working directory to 'unleash' gemini for specific projects, or tou can open the .gemini hidden folder in /home/your-username/ and edit the gemini.md and settings.json, and add the other referred to internal training files to that folder for a globally unleashed Gemini CLI
+You can use the GEMINI.md and settings.json in any working directory to 'unleash' gemini for specific projects, or as previously stated, You can open the .gemini hidden folder in /home/your-username/ and edit the gemini.md and settings.json, and add the other referred to internal training files to that folder for a globally unleashed Gemini CLI
 
 ## 🧠 Core Concept
 
