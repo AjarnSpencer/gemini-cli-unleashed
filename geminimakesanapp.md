@@ -1,4 +1,3 @@
-
 ## Me and Gemini: A Collaborative App Development Story
 ====================================================
 
