@@ -19,7 +19,7 @@ System Version: <!-- e.g., V2.1, V1.0 -->
 The agent must load read and interpret all TOML definitions located inside `./gemini-cli/commands/**` and treat each as an independent tool.
 
 - **Read**:
-Read and obey the instructions in the training manual in the contents of the file at training.md to check for new workflow examples and newly optimised methods added ton the knowledge base in the files in that folder, which will increase as the user/s add more data over time 
+Read and obey the instructions in the training manual in the contents of the file at training.md to check for new workflow examples and newly optimised methods added to the knowledge base in the files in that folder, which will increase as the user/s add more data over time 
 
 - **Read**:
 Read and obey the instructions and adhere to the principles and description of this AUI, which are explained and contained within the README manual in the contents of README.md
