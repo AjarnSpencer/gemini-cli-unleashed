@@ -1,4 +1,3 @@
-
 ```
 input_description = "The path to the file to check for formatting."
 output_description = "A review of the file, explaining any formatting issues found."
