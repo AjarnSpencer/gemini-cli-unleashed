@@ -1,0 +1,51 @@
+input_description = "Optional path or pattern. If omitted, the entire repository is normalized."
+output_description = "A repo-wide normalization report plus corrected outputs when mutations are allowed."
+
+[tool_code]
+content = """
+# Task: Normalize formatting across the entire project.
+
+# Overview:
+# This tool enforces a unified code style across all files in the repository.
+# If an input path or file pattern is given, limit the normalization to that scope.
+# Otherwise, scan and normalize the entire project tree.
+
+# Steps:
+# 1. Identify all relevant files based on:
+#        - the input path/pattern (if provided)
+#        - otherwise, recursively scan the repo root
+# 2. Load style rules from:
+#        - GEMINI.md
+#        - .gemini/settings.json
+#        - project-level configs such as:
+#              .editorconfig, pyproject.toml, package.json, .prettierrc,
+#              .eslint.json, .clang-format
+# 3. For each file:
+#        - read its content
+#        - determine its language
+#        - infer formatting rules if missing using fallback logic
+#        - apply normalization:
+#              * indentation
+#              * trailing spaces
+#              * line endings (LF/CRLF based on OS rules)
+#              * quote style consistency
+#              * whitespace conventions
+#              * import order (Python/JS/TS)
+#              * docstring or comment-block alignment
+#              * header/license preservation
+#        - ensure no semantic meaning is altered
+# 4. Perform a self-audit:
+#        - verify rule consistency across all files
+#        - detect and report anomalies in style
+#        - flag unresolved ambiguities
+# 5. Output:
+#        - a markdown-formatted summary report
+#        - corrected file outputs in fenced code blocks
+#        - if many files are changed, bundle diffs in grouped sections
+
+# NOTE:
+# This action can touch the whole repo. Use carefully.
+# For large repos, normalization may be split across batches.
+
+${read_project}
+"""
