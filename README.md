@@ -63,7 +63,7 @@ Traditional AI assistants operate within strict safety confines — capable of s
 
 Gemini becomes not just an advisor — but a true operator.  
 ---
-
+![Overview Map](https://github.com/AjarnSpencer/gemini-cli-unleashed/blob/main/img/Gemini_unleashed_overview-mapl.png)
 ✦ **The Gemini Unleashed Project**: A Mission Statement
 
   The mission of the Gemini Unleashed Project is to pioneer the next generation of autonomous agentic AI, moving beyond the current
