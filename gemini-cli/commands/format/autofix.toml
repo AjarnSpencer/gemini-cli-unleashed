@@ -1,0 +1,32 @@
+input_description = "The path to the file that should be automatically fixed."
+output_description = "A corrected version of the file with formatting issues resolved."
+
+[tool_code]
+content = """
+# Task: Automatically repair the formatting of '${input:file}'.
+
+# Instructions:
+# 1. Read the file content from the provided path.
+# 2. Load project style rules from:
+#      - GEMINI.md
+#      - .gemini/settings.json
+#      - Any config files found in the project root:
+#           .editorconfig, pyproject.toml, package.json, .prettierrc,
+#           .eslint.json, .clang-format
+# 3. If any rules are missing, infer them using fallback logic based on
+#      the project's dominant style conventions.
+# 4. Apply corrections directly to:
+#      - indentation
+#      - line length
+#      - quote usage
+#      - spacing rules
+#      - function documentation blocks
+#      - import order
+#      - OS-specific newline conventions
+# 5. Perform a self-audit to ensure:
+#      - the fix is consistent with all detected rule sources
+#      - no accidental semantic changes occurred
+# 6. Output the corrected file in full, in markdown fenced code format.
+
+${read_file:file}
+"""
