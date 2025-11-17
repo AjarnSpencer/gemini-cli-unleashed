@@ -15,8 +15,9 @@ System Model / Product Name: <!-- e.g., ROG Zephyrus G15, MiniBook X, MacBook Pr
 System Version: <!-- e.g., V2.1, V1.0 -->
 
 # Instructions
-- **Read**:
-Read and obey the instructions in the file at ./commands/format/check.toml
+- **Read load and interpret**:
+The agent must load read and interpret all TOML definitions located inside `./gemini-cli/commands/**` and treat each as an independent tool.
+
 - **Read**:
 Read and obey the instructions in the training manual in the contents of the file at training.md to check for new workflow examples and newly optimised methods added ton the knowledge base in the files in that folder, which will increase as the user/s add more data over time 
 
