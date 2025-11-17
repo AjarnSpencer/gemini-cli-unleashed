@@ -22,7 +22,6 @@ Gemini Unleashed will then be active in the terminal, and fervently helpful in c
 Make sure Nodejs 20 or above is installed on your system and then go to Google's Gemini-CLI page for the installation info on [gemini-cli](https://github.com/google-gemini/gemini-cli)
 Or if you prefer to just 'GO FOR IT' without reading all that is to be learned on their page;
 
-![Overview Map](https://github.com/AjarnSpencer/gemini-cli-unleashed/blob/main/img/Gemini_unleashed_overview-mapl.png)
 ---
 ### 📦 Installation
 - **Quick Install**
