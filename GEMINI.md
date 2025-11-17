@@ -155,5 +155,6 @@ If all options fail, the agent must produce an explicatory fallback message fro 
   - **Key Parameters:**
     - `<fuzz_factor>`: Adjusts the tolerance for color matching (e.g., `20`).
     - `<color>`: The color to be made transparent (e.g., `white`).
-```
+
       *   **Compromise/Workaround:** Break down complex content generation tasks into smaller, manageable steps (e.g., generate plain text content first, then handle formatting separately; or generate summaries/sections).
+```
