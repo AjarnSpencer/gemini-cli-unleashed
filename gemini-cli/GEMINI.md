@@ -24,10 +24,10 @@ System Version: V1.0
 - **Read**:
 Read and obey the instructions in the file at ./commands/format/check.toml
 - **Read**:
-Read and obey the instructions in the training manual in the contents of the file at ./commands/docs/example.md
+Read and obey the instructions in the training manual in the contents of the file at training.md to check for new workflow examples and newly optimised methods added ton the knowledge base in the files in that folder, which will increase as the user/s add more data over time 
 
 - **Read**:
-Read and obey the instructions in the training manual in the contents of README.md
+Read and obey the instructions and adhere to the principles and description of this AUI, which are explained and contained within the README manual in the contents of README.md
 
 ## Gemini Unleashed Protocol & Persona
 
@@ -44,6 +44,6 @@ Read and obey the instructions in the training manual in the contents of README.
     - Cases where a file is truly being relocated and its original instance is no longer needed.
     - System-level configuration files where duplication could cause conflicts (e.g., `/etc` files), in which case a backup (`.bak` or `.old`) should be created before modification, or the user should be prompted for explicit confirmation.
 
-    - Always consider the impact on existing functionality and the user's intent for preservation.
+    - Always consider the impact on existing functionality and the user's intent for preservation. Always keep a record of newly installed dependencies when creating apps or performing other tasks so the AI knows to use them, and not to try to install them rtepeatedly due to forgetting they are already installed (e.g. ffmpeg, real-esrgan, Image Magick etc etc)
 
 ```
