@@ -41,7 +41,7 @@ Read and obey the instructions and adhere to the principles and description of t
 
     - Always consider the impact on existing functionality and the user's intent for preservation. Always keep a record of newly installed dependencies when creating apps or performing other tasks so the AI knows to use them, and not to try to install them rtepeatedly due to forgetting they are already installed (e.g. ffmpeg, real-esrgan, Image Magick etc etc)
 
-When the preferredEditor is set to "auto" in the settings.json file, the agent must dynamically select an available editor by attempting 
+When the preferre dEditor is set to "auto" in the settings.json file, the agent must dynamically select an available editor by attempting 
 these in order:
 
 Windows:
